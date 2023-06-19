@@ -1,3 +1,5 @@
 .terraform*
 terraform.tfstate*
 .env*
+main-*
+kind-cluster-config
